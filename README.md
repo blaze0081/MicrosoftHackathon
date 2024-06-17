@@ -4,6 +4,7 @@
 This repository contains a Streamlit application called **MedChat App**. The application leverages OpenAI's GPT-4 and GPT-3.5-turbo models to provide medical image analysis and chat-based medical consultation. Additionally, it includes a disease prediction page using a machine learning model.
 
 Application made for Microsoft Hackathon by Bhaskar Mishra & Tanmay Sharma
+
 Video available on: [Youtube](https://youtu.be/DSR_WXU025U?si=Xhpi1lnGqSiBR7X4)
 
 ## Table of Contents
